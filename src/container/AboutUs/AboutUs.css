@@ -72,7 +72,10 @@
 
 @media screen and (max-width: 650px) {
     .app__aboutus-overlay img {
-        width: 80%;
-        height: 320px;
+        width: 40%;
+        height: 160px;
+    }
+    .app__aboutus-content_knife img {
+        height: 480px;
     }
 }
