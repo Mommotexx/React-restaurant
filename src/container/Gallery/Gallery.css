@@ -62,6 +62,9 @@
     object-fit: cover;
     opacity: 1;
     transition: 0.5s ease;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
 }
 
 .app__gallery-images_card:hover img {
